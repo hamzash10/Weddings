@@ -1,0 +1,21 @@
+.round-button {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: flex-start !important;
+  justify-content: center !important;
+  border-radius: 50% !important;
+  background-color: #d4af37 !important;
+  color: white;
+  text-align: center;
+  margin: 5px;
+  font-size: 50px !important;
+  text-decoration: none;
+  border: 0px !important;
+  padding-top: 0px !important;
+  line-height: 0 !important;
+}
+
+.round-button:hover {
+  background-color: #0057b3da !important;
+}

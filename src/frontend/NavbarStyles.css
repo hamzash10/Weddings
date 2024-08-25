@@ -1,0 +1,33 @@
+.nav-bar {
+  width: 100px !important;
+  height: 100vh;
+  background-color: #035128a0;
+  padding: 0px;
+  overflow: hidden;
+}
+
+
+.nav-link.nav-button {
+  width: 75px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #d4af37;
+  color: white;
+  text-align: center;
+  margin: 5px;
+  font-size: 15px !important;
+  text-decoration: none;
+}
+
+.nav-button:hover {
+  background-color: #0057b3da;
+  /* Darker button color on hover */
+}
+
+.scrollable-container {
+  height: 100vh;
+  overflow-y: auto !important;
+}
